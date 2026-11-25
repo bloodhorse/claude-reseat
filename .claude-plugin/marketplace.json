@@ -1,0 +1,5 @@
+{
+  "name": "reseat",
+  "owner": { "name": "bloodhorse" },
+  "plugins": [{ "name": "reseat", "source": "./" }]
+}

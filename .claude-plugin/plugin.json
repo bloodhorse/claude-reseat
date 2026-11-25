@@ -1,0 +1,9 @@
+{
+  "name": "reseat",
+  "version": "1.0.0",
+  "description": "Carry a heavy Claude Code session into a fresh one: every word of the conversation kept, the dead weight dropped, every carry verified.",
+  "author": { "name": "Vladislav Bekmemetev", "url": "https://github.com/bloodhorse" },
+  "repository": "https://github.com/bloodhorse/claude-reseat",
+  "license": "MIT",
+  "keywords": ["session", "context", "compaction", "tokens", "resume"]
+}

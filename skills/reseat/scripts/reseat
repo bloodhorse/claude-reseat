@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+"""entry point; ~/.local/bin/reseat is a symlink to this file. see reseatlib/cli.py."""
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.realpath(__file__)))
+from reseatlib.cli import main
+sys.exit(main())
